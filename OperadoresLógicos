@@ -1,0 +1,17 @@
+<html>
+    <script>
+        var nome = prompt("Digite seu nome:");
+        var evazio = nome =="";
+        if (!evazio) {
+            console.log(nome);
+        } else {
+            console.log("nome ta vazio!");
+        } 
+    
+
+
+        var letra = prompt("Digite uma letra:");
+        if 
+    </script>
+</html>
+        
